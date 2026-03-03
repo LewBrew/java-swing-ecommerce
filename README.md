@@ -57,4 +57,4 @@ Error Handling
 ![No Stock](screenshots/no-stock.png)
 
 ## Author
-Lewis Marte Santana
+Lewis Marte
